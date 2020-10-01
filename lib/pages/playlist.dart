@@ -60,7 +60,7 @@ class playlistState extends State<playlist>{
                           padding: const EdgeInsets.only(top:110.0,right: 45),
                           child: Icon(
                             Icons.playlist_add,
-                            size: 40,
+                            size: 41,
                             color: Colors.white,
                           ),
                         ),
